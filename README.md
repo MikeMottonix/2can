@@ -1,2 +1,3 @@
-# 2can
-A Open Source CSS / JS API
+## 2can - The Futere
+
+The Futere is Now
