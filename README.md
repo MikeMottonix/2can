@@ -15,11 +15,6 @@ First:
 
 Then you can:
 - create styled element's without doing CSS
-- change the default color by adding `?color=(HEX CODE)` 
-  eg.
-  ```html
-  <link rel="stylesheet" href="https://2can-api.glitch.me/css?color=000fff">
-  ```
 - set website name with JS `var name=(name)`
 
 
