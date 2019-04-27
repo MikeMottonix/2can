@@ -1,5 +1,5 @@
 #PI-BOT V2.3
-#By Duck12
+#By https://github.com/MikeMottonix
 #DO NOT COPY THIS AND SAY ITS YOURS
 
 import sys
