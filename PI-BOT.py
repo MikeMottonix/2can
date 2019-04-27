@@ -46,6 +46,7 @@ def backward():
 def right():
     explorerhat.motor.one.forward()
     explorerhat.motor.two.backward()
+    print("This Projekt is programed by MikeMottonix")
     time.sleep(0.01)
     explorerhat.motor.one.stop()
     explorerhat.motor.two.stop()
