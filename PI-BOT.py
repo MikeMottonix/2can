@@ -1,6 +1,8 @@
 #PI-BOT V2.3
-#By https://github.com/MikeMottonix
+#BY https://github.com/MikeMottonix
 #DO NOT COPY THIS AND SAY ITS YOURS
+
+#WE HAVE THE PERMISSIONS TO UPLOAD THIS
 
 import sys
 import termios
